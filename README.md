@@ -2,7 +2,7 @@
 
 - 🎓 Estudando Técnico em Informática na Escola Técnica Mesquita.
 - 💼 Trabalhando como Estágiario na Escola Técnica Mesquita.
-- 🌱 Back-end Lover.
+- ⭐ Back-end Lover.
 
 ## Minhas Skills
 
@@ -25,7 +25,7 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Intelij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000)
+![Intelij](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 <br/>
 
 <a href="https://github.com/iuricode" title="Perfil do Iuri">
