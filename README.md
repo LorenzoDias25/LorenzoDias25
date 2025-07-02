@@ -4,6 +4,7 @@
 - 💼 Trabalhando como Estágiario na Escola Técnica Mesquita.
 - ⭐ Back-end Lover.
 
+
 ## Minhas Skills
 
 **Aplicações e dados**
@@ -28,9 +29,7 @@
 ![Intelij](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
+[![card](https://github-readme-stats.vercel.app/api?username=LorenzoDias25&theme=cobalt&show_icons=true)](https://github.com/LorenzoDias25)
 
 ## Onde me encontrar
 
