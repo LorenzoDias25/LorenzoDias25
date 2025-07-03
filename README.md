@@ -29,10 +29,11 @@
 ![Intelij](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 <br/>
 
-[![card](https://github-readme-stats.vercel.app/api?username=LorenzoDias25&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged)](https://github.com/LorenzoDias25)
+
+[![card](https://github-readme-stats.vercel.app/api?username=LorenzoDias25&count_private=true&show_icons=true&theme=nightowl&bg_color=0,16222A,3A6073&title_color=ff7b74&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged)](https://github.com/LorenzoDias25)
 <br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=LorenzoDias25&count_private=true&show_icons=true&theme=nightowl&bg_color=0,2b5876,4e4376&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged)](https://github.com/LorenzoDias25)
+[![card](https://github-readme-stats.vercel.app/api?username=LorenzoDias25&count_private=true&show_icons=true&theme=nightowl&bg_color=0,0e1c26,294861&title_color=ff7b74&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged)](https://github.com/LorenzoDias25)
 <br>
 
 ## Onde me encontrar
