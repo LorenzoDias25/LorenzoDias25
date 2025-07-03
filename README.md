@@ -29,15 +29,14 @@
 ![Intelij](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 <br/>
 
-[![card](https://github-readme-stats.vercel.app/api?username=LorenzoDias25&theme=cobalt&show_icons=true)](https://github.com/LorenzoDias25)
+[![card](https://github-readme-stats.vercel.app/api?username=LorenzoDias25&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged)](https://github.com/LorenzoDias25)
+<br>
+
+[![card](https://github-readme-stats.vercel.app/api?username=LorenzoDias25&count_private=true&show_icons=true&theme=nightowl&bg_color=0,2b5876,4e4376&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged)](https://github.com/LorenzoDias25)
+<br>
 
 ## Onde me encontrar
 
 [![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lorenzo_dias25/)](https://www.instagram.com/lorenzo_dias25/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzo-canabarro-dias-b079632a6/)](https://www.linkedin.com/in/lorenzo-canabarro-dias-b079632a6/)
 ![Gmail Badge](https://img.shields.io/badge/-lorenzodias25adm@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)
-
-
-
-
-Original: https://github.com/iuricode/readme-template/blob/main/badges-shields/readme.md#skills
