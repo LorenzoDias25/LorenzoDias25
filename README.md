@@ -30,11 +30,11 @@
 <br/>
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=LorenzoDias25&count_private=true&show_icons=true&theme=nightowl&bg_color=0,16222A,3A6073&title_color=ff7b74&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged)](https://github.com/LorenzoDias25)
+[![card](https://github-readme-stats.vercel.app/api?username=LorenzoDias25&count_private=true&show_icons=true&theme=nightowl&bg_color=0,0e1c26,294861&title_color=FEAC5E&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged)](https://github.com/LorenzoDias25)
 <br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=LorenzoDias25&count_private=true&show_icons=true&theme=nightowl&bg_color=0,0e1c26,294861&title_color=ff7b74&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged)](https://github.com/LorenzoDias25)
-<br>
+
+
 
 ## Onde me encontrar
 
