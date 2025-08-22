@@ -1,43 +1,117 @@
-## Sobre mim
+<h2 align="center">⭐ Lorenzo Dias ⭐</h2>
 
-- 🎓 Estudando Técnico em Informática na Escola Técnica Mesquita.
-- 💼 Trabalhando como Estágiario na Escola Técnica Mesquita.
-- ⭐ Back-end Lover.
+<p align="center">
+  Estagiário - Back-end Developer | Java | MySQL
+</p>
+
+---
+
+## 💡 Resumo
+
+Sou estagiário de Informática e estudante do curso técnico de informática na Escola Técnica Mesquita. Tenho grande interesse principalmente em **back-end** usando **Java, Spring Boot e Dart**. 
+Atualmente estou em busca de estágios com foco em desenvolvimento **back-end**.
+
+---
+
+## 💾 Sobre mim
+
+- 💼 Experiência prática com linguagens front-end e back-end fazendo alguns projetos no curso técnico com conexão ao banco de dados MySQL. 
+- 🌱 Sempre aprendendo novas tecnologias — atualmente explorando Flutter, Docker e Spring Boot.
+
+---
+
+## 🎨 Tecnologias
+
+#### ☕ Back-end  
+
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" title="Dart"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring"/></code>
+
+#### 🗃️ Banco de Dados  
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/></code>
+
+#### 🎨 Front-end  
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="BootStrap"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular"/></code>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LorenzoDias25&count_private=true&show_icons=true&theme=nightowl&bg_color=0,0e1c26,294861&title_color=FEAC5E&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LorenzoDias25&layout=compact&langs_count=8&theme=nightowl&bg_color=0,0e1c26,294861&title_color=FEAC5E&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged" height="170" />
+</p>
 
 
-## Minhas Skills
+---
 
-**Aplicações e dados**
+## 🌟 Projetos em destaque
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white)
+### [Projeto Final Programação Orientada a Objetos 2](https://github.com/LorenzoDias25/ProjetoFinalPOO2)  
+**Java, MySQL**  
+Aplicação para gerenciar uma locadora de jogos.  
 
-**DevOps**
+**Funções principais:**  
+- CRUD de: estoque, clientes, locações e devoluções. 
+- Listagem de clientes.
+- Histórico de locações e devoluções.  
+**Papel:**  
+Desenvolvimento back-end e conexão/modelagem de banco.
 
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+---
 
-**Ferramentas de desenvolvimento**
+### [Projeto Final de WEB 1](hhttps://github.com/LorenzoDias25/ProjetoFinalWEB)  
+**HTML, CSS, JavaScript e BootStrap**  
+Currículo Responsivo.
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Intelij](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
-<br/>
+**Funções principais:**
+- Responsivo: se adapta a dispositivos móveis, tablets e desktops.
+- Organizado por seções: facilita a leitura e a navegação.
+- Visual moderno: usando Bootstrap e gradientes escuros.
+- Dropdowns interativos: com ícones animados e conteúdo colapsável.
+- Links reais para projetos no GitHub.
 
+---
 
-[![card](https://github-readme-stats.vercel.app/api?username=LorenzoDias25&count_private=true&show_icons=true&theme=nightowl&bg_color=0,0e1c26,294861&title_color=FEAC5E&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged)](https://github.com/LorenzoDias25)
-<br>
+### [Projeto Final de Mobile](https://github.com/LorenzoDias25/ProjetoFinalMobile)  
+**Dart, Flutter**  
+Recipe Flutter - Aplicativo de Receitas, Planejamento de Refeições e Lista de Compras.
 
+**Funções principais:**
+- Login e Cadastro de usuários com autenticação por e-mail e senha.
+- Tela de perfil com dados pessoais.
+- Criação, edição e exclusão de receitas culinárias.
+- Planejamento de refeições semanais com calorias e horários.
+- Listas de compras com itens e quantidades.
+- Marcação de receitas como favoritas.
+- Armazenamento de dados segregado por usuário (Firestore).
 
+---
 
+## 📬 Contato
 
-## Onde me encontrar
+<p align="center">
+  <a href="https://github.com/LorenzoDias25" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" height="28" />
+  </a>
+  <a href="https://www.linkedin.com/in/lorenzo-dias/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for=flat&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  <a href="mailto:lorenzodias25adm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" />
+  </a>
+</p>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lorenzo_dias25/)](https://www.instagram.com/lorenzo_dias25/)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzo-canabarro-dias-b079632a6/)](https://www.linkedin.com/in/lorenzo-canabarro-dias-b079632a6/)
-![Gmail Badge](https://img.shields.io/badge/-lorenzodias25adm@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)
+---
+
+## ✨ Disponibilidade
+
+📌 A procura de **estágios**.  
+💡 Adoro transformar ideias em código e colaborar com soluções criativas.  
+🚀 Sempre pronto para aprender e crescer profissionalmente.
