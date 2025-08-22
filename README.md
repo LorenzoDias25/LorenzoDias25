@@ -66,7 +66,7 @@ Desenvolvimento back-end e conexão/modelagem de banco.
 
 ---
 
-### [Projeto Final de WEB 1](hhttps://github.com/LorenzoDias25/ProjetoFinalWEB)  
+### [Projeto Final de WEB 1](hhttps://github.com/LorenzoDias25/ProjetoFinalWEB)   
 **HTML, CSS, JavaScript e BootStrap**  
 Currículo Responsivo.
 
