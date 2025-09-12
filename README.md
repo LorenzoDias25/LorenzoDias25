@@ -8,7 +8,7 @@
 
 ## 💡 Resumo
 
-Sou estagiário de Informática e estudante do curso técnico de informática na Escola Técnica Mesquita. Tenho grande interesse principalmente em **back-end** usando **Java, Spring Boot e Dart**. 
+Sou estudante do curso técnico de informática na Escola Técnica Mesquita. Tenho grande interesse principalmente em **back-end** usando **Java, Spring Boot e Dart**. 
 Atualmente estou em busca de estágios com foco em desenvolvimento **back-end**.
 
 ---
